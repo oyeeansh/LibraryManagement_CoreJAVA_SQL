@@ -9,7 +9,7 @@ This system can be used by public libraries or institutions for better managemen
 * Add/Delete students
 * Issue/Return books
 * Statistics 
-* Forget Paswword 
+* Forget Password 
 * Help/About Us
 # Prerequisites
 * IDE
