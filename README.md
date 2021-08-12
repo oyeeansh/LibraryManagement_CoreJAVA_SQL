@@ -19,4 +19,4 @@ This system can be used by public libraries or institutions for better managemen
 * IntelliJ
 * My SQL Workbench
 
-:smiley:
+👾  
